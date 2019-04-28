@@ -20,7 +20,6 @@ function set_post_views($post_id) {
 			update_post_meta($post_id, $meta_key, $meta_value);
 		}
 	}
-	return false;
 }
 /* get post views count
  * @param int: post id
