@@ -1,6 +1,6 @@
 <?php
 /**
- * default post template
+ * default single post page template
  * snippet will go inside default loop
  */
 if (have_posts()) {
